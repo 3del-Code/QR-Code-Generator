@@ -1,5 +1,4 @@
 # QR-Code-Generator
-# QR Code Generator
 
 🚀 **مولد رموز QR باستخدام JavaScript**
 
